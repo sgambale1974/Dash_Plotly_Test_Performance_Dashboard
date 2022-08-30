@@ -1,0 +1,1 @@
+This project utilized Dash Plotly in order to create a student performance dashboard.  Speficially, this dashboard is utilized in order to understand the relationship between overall student performance on an assessment and their performance of subject specific subtests.
